@@ -61,7 +61,6 @@
 		B4651F592AEF1A0A00853C02 /* App */ = {
 			isa = PBXGroup;
 			children = (
-				B4651F4B2AEF19E400853C02 /* ObservationExampleApp.swift */,
 				B4651F5F2AEF1A7D00853C02 /* Models */,
 				B4651F602AEF1A9A00853C02 /* Resources */,
 				B4651F5E2AEF1A7200853C02 /* UI */,
@@ -72,6 +71,7 @@
 		B4651F5E2AEF1A7200853C02 /* UI */ = {
 			isa = PBXGroup;
 			children = (
+				B4651F4B2AEF19E400853C02 /* ObservationExampleApp.swift */,
 				B4651F4D2AEF19E400853C02 /* ContentView.swift */,
 				B4651F5A2AEF1A2B00853C02 /* ViewModel.swift */,
 			);
